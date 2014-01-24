@@ -1,8 +1,10 @@
 
 /*!
- * arrest
- * Copyright(c) 2013 Vivocha S.p.A. <os@vivocha.com>
+ * arrest-couchbase
+ * Copyright(c) 2014 Alexis Reverte - Matsiya. <info@matsiya.com>
  * MIT Licensed
+ *
+ * Forked from arrest by vivocha
  */
 
 module.exports = require('./lib/rest');
