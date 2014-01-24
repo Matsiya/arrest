@@ -1,6 +1,6 @@
 {
   "name": "arrest-couchbase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "REST framework for Node.js, Express and CouchBase",
   "homepage": "https://github.com/matsiya/arrest-couchbase",
   "keywords": [
